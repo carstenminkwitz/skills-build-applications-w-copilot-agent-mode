@@ -1,0 +1,40 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.navbar {
+  margin-bottom: 2rem;
+}
+
+.card {
+  margin-bottom: 2rem;
+}
+
+.table {
+  background-color: #fff;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.btn {
+  margin: 0.25rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 600;
+}
+
+.form-control, .form-select {
+  margin-bottom: 1rem;
+}
+
+.modal-content {
+  border-radius: 0.75rem;
+}
+
+.link {
+  color: #0d6efd;
+  text-decoration: underline;
+  cursor: pointer;
+}
